@@ -22,8 +22,8 @@
           </div>
         </div>
         <div class="interests">
-          
         </div>
+
         <div class="socials">
           <div v-for="item in data.socials">
             <a :href="item.link" target="_blank">
@@ -32,6 +32,7 @@
             </a>
           </div>
         </div>
+
         <div class="actions">
           <div v-for="item in data.actions">
             <a :href="item.link" class="button"

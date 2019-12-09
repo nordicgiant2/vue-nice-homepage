@@ -1,29 +1,24 @@
-# Vue Nice HomePage     
+---
+layout: Homepage
+description: 'The biography and information about me.'
+avatar: /profile.jpg
+head: 'Hello Kraken'
+info: 'Student at Hogwarts School'
+interests: 'Interests: Quidditch and Wizard chess.'
+socials:
+- title: github
+  link: https://github.com/nordicgiant2/vue-nice-homepage
+- title: linkedin
+  link: https://www.linkedin.com
+- title: instagram
+  link: https://www.instagram.com
+- title: email
+  link: 'mailto:harry[at]gmail.com'
+actions:
+- text: Projects
+  link: /projects/
+- text: Github
+  link: https://github.com/nordicgiant2/vue-nice-homepage
+---
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
-
-## About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
-
-![img](https://github.com/lindelof/particles-bg-vue/raw/master/image/02.jpg?raw=true)
-
-## Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
-
-## Run Project
-### 1. Clone the project
-
-### 2. Run the project
-```shell
-npm i
-npm start
-```
-
-### 3. BUild
-```shell
-npm run build
-```
+I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
