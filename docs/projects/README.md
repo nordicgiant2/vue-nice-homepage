@@ -4,7 +4,7 @@ Here are some works of mine :books:
 
 ## Projects
 
-<MarkdownCard image="/projects/1.png">
+<MarkdownCard image="/profile.jpg">
 
   Harry P., Hermione G., *et al*
   

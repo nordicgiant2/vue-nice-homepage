@@ -21,16 +21,9 @@
             <Content/>
           </div>
         </div>
-        <div class="interests">
-        </div>
 
-        <div class="socials">
-          <div v-for="item in data.socials">
-            <a :href="item.link" target="_blank">
-              <img :src="'/icons/'+item.title+'.svg'" :alt="item.title"
-              :title="item.title" />
-            </a>
-          </div>
+        <div class="interests">
+          {{data.interests}}
         </div>
 
         <div class="actions">
@@ -125,6 +118,11 @@ body
             font-weight normal
     .interests
       padding 1em 1.5em
+      font-size: 18px
+      font-weight: 700
+      text-align: left
+      color: #20312a
+      text-decoration: underline
       
     .socials
       

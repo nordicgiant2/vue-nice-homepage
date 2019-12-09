@@ -2,9 +2,10 @@
 layout: Homepage
 description: 'The biography and information about me.'
 avatar: /profile.jpg
+face: /kraken.jpg
 head: 'Hello Kraken'
-info: 'Student at Hogwarts School'
-interests: 'Interests: Quidditch and Wizard chess.'
+info: 'The kraken is a legendary'
+interests: 'The address of this project is here. If you are interested, please star. Thank you very much.'
 socials:
 - title: github
   link: https://github.com/nordicgiant2/vue-nice-homepage
@@ -21,4 +22,4 @@ actions:
   link: https://github.com/nordicgiant2/vue-nice-homepage
 ---
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+The kraken is a legendary cephalopod-like sea monster of giant size in Scandinavian folklore. According to the Norse sagas, the kraken dwells off the coasts of Norway and Greenland and terrorizes nearby sailors. Authors over the years have postulated that the legend may have originated from sightings of giant squids that may grow to 13–15 meters in length. :dizzy:

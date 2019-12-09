@@ -10,7 +10,7 @@
 ![img](https://github.com/lindelof/particles-bg-vue/raw/master/image/02.jpg?raw=true)
 
 ## Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+This project forks from [https://github.com/mtobeiyf/vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage), I made some modifications and adjustments, thanks to the [author](https://github.com/mtobeiyf).
 
 ![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
 
