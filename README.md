@@ -1,6 +1,6 @@
 # Vue Nice HomePage     
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### DEMO is [here](https://nordicgiant2.github.io/vue-nice-homepage-page/)
 
 ![img](https://github.com/nordicgiant2/vue-nice-homepage/blob/master/images/01.jpg?raw=true)
 

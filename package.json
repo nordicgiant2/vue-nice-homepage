@@ -1,6 +1,7 @@
 {
   "name": "vue-nice-homepage",
   "version": "0.0.1",
+  "homepage": ".",
   "description": "Generate your homepage with VuePress",
   "author": "nono <nonos@gmail.com>",
   "repository": "https://github.com/nordicgiant2/vue-nice-homepage.git",

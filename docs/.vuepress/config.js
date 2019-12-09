@@ -2,9 +2,8 @@ module.exports = {
   title: "Hello Kraken",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/",
   dest: "./dist",
-
+  base: "/vue-nice-homepage-page/",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
