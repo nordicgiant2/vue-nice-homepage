@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    
     <component v-if="particlesBgComp" :is="particlesBgComp" v-bind="bgProps"></component>
     <div class="wrapper">
       <div class="avatar">
