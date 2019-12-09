@@ -18,12 +18,10 @@
 
 <script>
 import MContent from "./MContent.vue";
-import { ParticlesBg } from "particles-bg-vue";
 
 export default {
   components: {
-    MContent,
-    ParticlesBg
+    MContent
   },
   computed: {
     data() {

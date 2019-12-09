@@ -1,6 +1,7 @@
 <template>
   <div class="home">
-    <particles-bg type="random" :bg="true" />
+    
+    <component v-if="particlesBgComp" :is="particlesBgComp" v-bind="bgProps"></component>
     <div class="wrapper">
       <div class="avatar">
         <img :src="$withBase(data.avatar)" alt="">
@@ -44,15 +45,26 @@
 </template>
 
 <script>
-import { ParticlesBg } from "particles-bg-vue";
 export default {
-  components: {
-    ParticlesBg
+  data() {
+    return {
+      particlesBgComp: null
+    }
   },
   computed: {
+    bgProps() {
+      if (this.particlesBgComp) {
+        return { bg: true, type: "random" }
+      }
+    },
     data() {
       return this.$page.frontmatter;
     }
+  },
+  mounted() {
+    import('particles-bg-vue').then(module => {
+      this.particlesBgComp = module.ParticlesBg
+    })
   }
 };
 </script>
