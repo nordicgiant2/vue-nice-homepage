@@ -45,7 +45,6 @@ Check your site at `http://127.0.0.1:8080/`
 - Powered by [VuePress](https://vuepress.vuejs.org/) and [Vue.js](https://vuejs.org/)
 
 It's **static**, which means once generated, your site could be deployed anywhere, like [Netlify](https://www.netlify.com/) or [GitHub Pages]()
-```
 
 ## License
 
