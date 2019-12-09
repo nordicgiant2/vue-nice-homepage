@@ -3,7 +3,6 @@
 ### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
 ![img](https://github.com/nordicgiant2/vue-nice-homepage/blob/master/images/01.jpg?raw=true)
-![img](https://github.com/nordicgiant2/vue-nice-homepage/blob/master/images/02.jpg?raw=true)
 
 ## About [`particles-bg-vue`](https://github.com/lindelof/particles-bg-vue) library
 #### This project uses the react particle background component library [https://github.com/lindelof/particles-bg-vue](https://github.com/lindelof/particles-bg-vue). It's very simple. Anyone can be a Musketeer with it.
@@ -47,3 +46,7 @@ Check your site at `http://127.0.0.1:8080/`
 
 It's **static**, which means once generated, your site could be deployed anywhere, like [Netlify](https://www.netlify.com/) or [GitHub Pages]()
 ```
+
+## License
+
+Released under the [MIT License](https://opensource.org/licenses/MIT).
